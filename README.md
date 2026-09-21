@@ -1,6 +1,6 @@
 # PhD Research Workflows
 
-Reproducible geospatial and CLIMADA workflows supporting PhD research on multi-hazard risk modelling for critical transport infrastructure.
+Reproducible GeoAI and CLIMADA workflows supporting PhD research on multi-hazard risk modelling for critical transport infrastructure.
 
 ## Case studies
 
